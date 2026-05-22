@@ -12,3 +12,7 @@ wheels/
 # images
 *.jpg
 segmentation_data/
+*.tif
+*.png
+xBD/
+*.json
