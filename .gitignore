@@ -16,3 +16,9 @@ segmentation_data/
 *.png
 xBD/
 *.json
+
+# Homeworks
+utils_assign_2/
+assignment_1.ipynb
+assignment_2.ipynb
+assignment_3.ipynb
