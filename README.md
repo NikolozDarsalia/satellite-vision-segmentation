@@ -74,4 +74,4 @@ This project uses `uv` for lightning-fast environment setup. To replicate this e
 
 ---
 
-**Authors:** [Nikoloz Darsalia](https://github.com/NikolozDarsalia), [Tina Sikharulidze]([https://github.com/tinasikharulidze))
+**Authors:** [Nikoloz Darsalia](https://github.com/NikolozDarsalia), [Tina Sikharulidze](https://github.com/tinasikharulidze)
