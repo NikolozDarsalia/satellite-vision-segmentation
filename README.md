@@ -34,8 +34,6 @@ This repository showcases the application of Deep Learning to Earth Observation 
 
 * `building_segmentation.ipynb`: Full pipeline for optical building extraction.
 * `flood-segmentation.ipynb`: Specialized SAR pipeline for disaster monitoring.
-* `best_unet_model.pth`: Pre-trained weights for the Flood Detection model.
-* `main.py`: Utility script for running inference/training via CLI.
 * `pyproject.toml` & `uv.lock`: Modern environment configuration for reproducible builds.
 
 ---
@@ -45,7 +43,7 @@ This repository showcases the application of Deep Learning to Earth Observation 
 | Project | Metric | Result |
 | :--- | :--- | :--- |
 | **Building Extraction** | Global F1-Score | **0.750** |
-| **Flood Detection** | Validation F1-Score | **0.80+** |
+| **Flood Detection** | Validation F1-Score | **0.837+** |
 
 ---
 
@@ -76,4 +74,4 @@ This project uses `uv` for lightning-fast environment setup. To replicate this e
 
 ---
 
-**Author:** [Nikoloz Darsalia](https://github.com/NikolozDarsalia)
+**Authors:** [Nikoloz Darsalia](https://github.com/NikolozDarsalia), [Tina Sikharulidze]([https://github.com/tinasikharulidze))
